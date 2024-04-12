@@ -15,9 +15,9 @@ This is a simple expense tracker application built with Vue.js 3 and the Composi
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/yasser942/Expense-Tracker.git
-```
+    ```bash
+    git clone https://github.com/yasser942/Expense-Tracker.git
+    ```
 2. Clone this repository:
     
     ```bash
