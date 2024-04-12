@@ -44,3 +44,9 @@ The application is straightforward to use. Here's a quick guide:
 
 * Vue.js 3
 * Composition API
+
+### Tutorial Followed 
+
+  ```bash
+   https://youtu.be/hNPwdOZ3qFU?feature=shared
+    
