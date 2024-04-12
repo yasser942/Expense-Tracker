@@ -19,12 +19,12 @@ This is a simple expense tracker application built with Vue.js 3 and the Composi
     git clone https://github.com/yasser942/Expense-Tracker.git
     ```
 2. Clone this repository:
-    
+
     ```bash
    npm install
     ```
 3. Run the app:
-    
+
     ```bash
    npm run serve
     ```
@@ -39,14 +39,16 @@ The application is straightforward to use. Here's a quick guide:
 * View Transaction List: All your transactions are listed below the balance section. Each transaction displays the date, description, amount, and a delete button.
 * Delete Transaction: Click the delete button next to a transaction to remove it from the list.
 
+### Preview
+
+![Vue Expense Tracker GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZyZmR5bjhqNzdoZHUxbnZqcWUzeDllYzMxdzNhZXJvanAyN285MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XKPlXUlepTsos0d0tM/giphy.gif)
 
 ### Technologies Used
 
 * Vue.js 3
 * Composition API
 
-### Tutorial Followed 
+### Tutorial Followed
 
   ```bash
    https://youtu.be/hNPwdOZ3qFU?feature=shared
-    
